@@ -6,3 +6,4 @@ netstat //default gateway
 ping //send a packet to the host at the designated ip address/hostname
 tracert // examine the hops travelled by the packet
 
+last //last logged in users
