@@ -1,4 +1,5 @@
 # unix
+# Linux - same core set of unix commands
 
 ifconfig //ipv4 ipv6
 netstat //default gateway
