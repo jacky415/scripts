@@ -7,3 +7,7 @@ ping //send a packet to the host at the designated ip address/hostname
 tracert // examine the hops travelled by the packet
 
 last //last logged in users
+
+//numeric value only, and no suffix is used - unit in seconds
+//s, m, h and d e.g. 1s, 1.10m, 1.5h, 2.0d
+sleep 1 //pause
