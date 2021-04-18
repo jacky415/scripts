@@ -11,3 +11,6 @@ last //last logged in users
 //numeric value only, and no suffix is used - unit in seconds
 //s, m, h and d e.g. 1s, 1.10m, 1.5h, 2.0d
 sleep 1 //pause
+
+// > create new or overwrite
+// >> append or create
